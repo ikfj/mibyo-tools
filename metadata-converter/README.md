@@ -4,14 +4,14 @@
 
 BioProject形式のメタデータが記載されたExcelファイル（DDBJセンターが作成したフォーマット）を読み込み、未病DBのプロジェクトメタデータ入力画面に貼り付ける文字列に変換するツールです。
 
-* 初回: [変換ツールを起動](https://binder.cs.rcos.nii.ac.jp/v2/gh/ikfj/mibyo-tools/HEAD)
+* 初回: [変換ツールを起動](https://binder.cs.rcos.nii.ac.jp/v2/gh/ikfj/mibyo-tools/HEAD?urlpath=lab%2Ftree%2Fmetadata-converter%2Fbioproject_excel_to_json.ipynb)
 * 2回目以降: [起動済みの変換ツールを再利用](https://jupyter.cs.rcos.nii.ac.jp/hub/home)
     * こちらはNII RDCデータ解析基盤を用いて変換ツールを実行します。必要なアカウントについては下記をご参照ください。
 * [変換ツールの使い方]()
 
 ## NII RDCデータ解析基盤の利用について
 
-NII RDCデータ解析基盤では、一人のユーザーが複数のJupyter環境を保持できる仕組みになっています。Jupyter環境の作り方と消し方について、詳細は [JDCat分析ツールのマニュアル](https://meatwiki.nii.ac.jp/confluence/x/6QtIBQ) をご参照ください。
+NII RDCデータ解析基盤では、一人のユーザーが複数のJupyterLab環境を保持できる仕組みになっています。Jupyter環境の作り方と消し方について、詳細は [JDCat分析ツールのマニュアル](https://meatwiki.nii.ac.jp/confluence/x/6QtIBQ) をご参照ください。
 
 NII RDCデータ解析基盤の利用には、下記いずれかのアカウントが必要です。
 
@@ -23,4 +23,4 @@ NII RDCデータ解析基盤の利用には、下記いずれかのアカウン�
   * [JDCat分析ツール ご利用上の注意（免責事項）](https://meatwiki.nii.ac.jp/confluence/x/bwxIBQ) が適用されます。
 
 いずれのアカウントもお持ちでない方は、NII RDCデータ解析基盤を利用できません。
-代わりに、 [mybinder.org](https://mybinder.org/) または [Google Colaboratory](https://colab.research.google.com/) の利用をご検討ください。
+代わりに、 [mybinder.org](https://mybinder.org/) の利用をご検討ください。
