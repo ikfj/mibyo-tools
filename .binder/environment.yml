@@ -1,0 +1,7 @@
+name: "mibyo-utils"
+dependencies:
+- pandas
+- openpyxl
+- dotty-dict
+- python==3.12.*
+- r-base==4.4.*

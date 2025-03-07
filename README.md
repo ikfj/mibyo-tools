@@ -1,2 +1,6 @@
 # mibyo-tools
-Utility tools for Mibyo DB users
+
+未病DB利用者のための便利ツール集
+
+* メタデータ変換ツール
+
